@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{51B1F703-5F7A-5B3B-4C05-1B52AABD3E19}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StartingMenuScript.cs">
+    <Files>
+      <File FileName="Assets/StartingMenuScript.cs" Line="7" Column="4" />
+      <File FileName="Assets/MenuLoaderScript.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final Project - Part A " expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="StartingMenuScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8535cd50-33fa-4393-997f-886155920fbb" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
